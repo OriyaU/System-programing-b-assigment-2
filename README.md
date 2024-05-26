@@ -171,7 +171,7 @@ how to run :
 
   tests:
   to run test file:
-  tun the commend:"make test" and than "./test"
+  run the commend:"make test" and than "./test"
 
 
 
